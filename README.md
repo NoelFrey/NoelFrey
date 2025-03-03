@@ -3,8 +3,9 @@
 ## My name is Noel Frey (fictional)
 ###  Penetration Tester |  Red Teamer |  Developer (sometimes)
 
-- **CPTS | CRTO | OSEP (in progress) Certified**
+- **CPTS | CRTO Certified**
 - **HTB Prolabs: Dante**
+- **OSEP (in progress)**
 
  ---
 
